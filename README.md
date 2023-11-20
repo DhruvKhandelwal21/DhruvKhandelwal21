@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently developing full-stack applications using MERN stack.<br>I’m looking to collaborate on Web development projects<br>Ask me about anything! I'm always happy to learn and help you out with anything related to programming.<br>Check out my portfolio and a few of my works on:- https://dhruv-portfolio-omega.vercel.app/<br>How to reach me? dhruv21.dk@gmail.com
+I am currently developing full-stack applications using MERN stack.<br>I’m looking to collaborate on Web development projects<br>Ask me about anything! I'm always happy to learn and help you out with anything related to programming.<br>How to reach me? dhruv21.dk@gmail.com
 
 
 ## 🌐 Socials:
